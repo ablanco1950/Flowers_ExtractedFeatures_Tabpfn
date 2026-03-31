@@ -89,7 +89,7 @@ Weighted avg 0.95   0.95    0.95    182
 
 For subsequent runs, the token is stored on the machine, and the session can be closed using the command:
 
-hf auth login
+hf auth logout
 
 References and citations:
 
