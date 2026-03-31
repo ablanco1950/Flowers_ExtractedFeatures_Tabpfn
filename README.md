@@ -8,20 +8,34 @@ Download the project to disk.
 Download the dataset (you will need a Roboflow account, which is free): https://universe.roboflow.com/un6oj918voact7ae2ql63t5q4ft1/flowers_classification/dataset/6
 In your project folder, it should appear as a folder named Flowers_Classification.v6i.folder with the subfolders: train, valid, and test.
 
+The following modules must been installed.
+
 python pip-script.py install numpy
+
 python pip-script.py install packaging
+
 python pip-script.py install Pillow
+
 python pip-script.py install pyparsing
+
 python pip-script.py install cycler
+
 python pip-script.py install python-dateutil
+
 python pip-script.py install kiwisolver
+
 python pip-script.py install importlib_resources
+
 python pip-script.py install pandas
+
 python pip-script.py install scikit-learn
+
 python pip-script.py install tensorflow
+
 python pip-script.py install opencv-contrib-python
 
 python pip-script.py install tabpfn
+
 
 You need a HuggingFace account and a token to download a trial version of the TabPFNClassifier model: Prior-Labs/tabpfn_2₆
 
