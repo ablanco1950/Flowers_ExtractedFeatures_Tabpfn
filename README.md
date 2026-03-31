@@ -40,7 +40,7 @@ python pip-script.py install tabpfn
 You need a HuggingFace account and a token to download a trial version of the TabPFNClassifier model: Prior-Labs/tabpfn_2_6
 
 Prior-Labs/tabpfn_2_6 · Hugging Face
-https://huggingface.co/Prior-Labs/tabpfn_2₆
+https://huggingface.co/Prior-Labs/tabpfn_2_6
 
 https://huggingface.co/settings/tokens
 
