@@ -171,7 +171,7 @@ print(classification_report(y_unseen, tab_pred_unseen, target_names=le.classes_)
 
 #joblib.dump(tabpfn, "tabpfn_flowers.pkl")
 
-#save_fitted_tabpfn_model(tabpfn, "tabpfn_flowers.tabpfn_fit") # not useful
+save_fitted_tabpfn_model(tabpfn, "tabpfn_flowers.tabpfn_fit") # not useful
 
 
 
