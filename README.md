@@ -76,11 +76,16 @@ Accuracy with unseen data: 0.945054945054945
           Precision recall f1-score support
 
 Daisy      0.92     0.95    0.94     77
+
 Dandelion  0.96     0.94    0.95    105
 
+
 Accuracy                    0.95    182
+
 Macro avg    0.94   0.95    0.94    182
+
 Weighted avg 0.95   0.95    0.95    182
+
 
 For subsequent runs, the token is stored on the machine, and the session can be closed using the command:
 
