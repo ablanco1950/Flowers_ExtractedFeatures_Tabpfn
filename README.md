@@ -42,6 +42,8 @@ You need a HuggingFace account and a token to download a trial version of the Ta
 Prior-Labs/tabpfn_2_6 · Hugging Face
 https://huggingface.co/Prior-Labs/tabpfn_2_6
 
+And create a token
+
 https://huggingface.co/settings/tokens
 
 Once the token is created, in the permissions column, under the FINEGRAINED button, expand the button marked with three vertical dots and grant the token all possible permissions.
