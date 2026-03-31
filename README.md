@@ -52,12 +52,6 @@ In the development environment, type:
 
 hf auth login
 
-
-
-In the development environment, type:
-
-hf auth login
-
 This will display the following message:
 
 _| _| _| _| _|_|_| _|_|_| _|_|_| _| _| _|_|_| _|_|_|_| _|_| _|_|_| _|_|_|_|
@@ -85,7 +79,7 @@ Daisy      0.92     0.95    0.94     77
 Dandelion  0.96     0.94    0.95    105
 
 Accuracy                    0.95    182
-Macro avg  0.94     0.95    0.94    182
+Macro avg    0.94   0.95    0.94    182
 Weighted avg 0.95   0.95    0.95    182
 
 For subsequent runs, the token is stored on the machine, and the session can be closed using the command:
