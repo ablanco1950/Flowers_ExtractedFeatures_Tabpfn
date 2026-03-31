@@ -93,7 +93,7 @@ hf auth logout
 
 CONCLUSIONS:
 
-The model performs accurately and can be run on a personal computer with 16GB of RAM without hindering other tasks. Even with very few training records, results with a precision of 0.8 are obtained.
+The model performs accurately and quickly, and can be run on a personal computer with 16GB of RAM without hindering other tasks. Even with very few training records, results with a precision of 0.8 are obtained.
 
 On the other hand, slow inference and the inability to save and retrieve models from disk were encountered. It should be noted that a trial version was downloaded. Testing with more complex datasets will be attempted.
 
