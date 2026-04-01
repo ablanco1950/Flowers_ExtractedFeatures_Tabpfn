@@ -107,6 +107,8 @@ https://huggingface.co/Prior-Labs/tabpfn_2_6
 
 https://huggingface.co/settings/tokens
 
+https://www.kaggle.com/code/saadmohamed99/plant-disease-classification
+
 https://medium.com/@koshurai/tabpfn-2-5-the-foundation-model-that-beat-xgboost-without-a-single-line-of-tuning-f02a515e169e
 
 @misc{TabPFN-2.5,\ 
